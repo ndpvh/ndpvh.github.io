@@ -16,7 +16,7 @@ redirect_from:
   - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
   - Feb 2025 - Now
   - Investigating the Blume-Capel catastrophe model to capture opinion dynamics. 
-    Collaboration with Prof. Dr. Han van der Maas and Dr. Jonas Dalege.
+    Collaboration with Prof. Dr. Han van der Maas.
 <br><br>
 
 **Postdoctoral Research**
@@ -57,6 +57,7 @@ redirect_from:
   - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
   - Feb 2025 - Now
   - Tutor of the _Basic Skills in Programming, Statistics, and Mathematics_ course, focusing on the Programming part.
+    Also helped students use <a href="https://www.github.com/ndpvh/predped">predped</a> to simulate data with the Minds for Mobile Agents pedestrian model as part of a _Digital Twinning_ course.
 <br><br>
 
 **Supervision of Students**
