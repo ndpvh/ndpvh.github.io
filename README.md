@@ -1,52 +1,89 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Academic Pages
+**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+# Getting Started
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Click the "Use this template" button in the top right.
+1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and add your content.
+1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+See more info at https://academicpages.github.io/
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## Running locally
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+1. Clone the repository and made updates as detailed above.
+1. Make sure you have ruby-dev, bundler, and nodejs installed
+    
+    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
+    ```bash
+    sudo apt install ruby-dev ruby-bundler nodejs
+    ```
+    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
+    ```bash
+    sudo apt update && sudo apt upgrade -y
+    ```
+    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+    On MacOS the commands are:
+    ```bash
+    brew install ruby
+    brew install node
+    gem install bundler
+    ```
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 
-## We ask you, humbly, to support this open source movement
+    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
+    Install Gems Locally (Recommended):
+    ```bash
+    bundle config set --local path 'vendor/bundle'
+    ```
+    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and open `.gitignore` then add `vendor` inside it.
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+## Using Docker
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-## Demo image credits
+You can build and execute the container by running the following command in the repository:
 
-- [Unsplash](https://unsplash.com)
+```bash
+docker compose up
+```
 
-## Latest news
+You should now be able to access the website from `localhost:4000`.
 
-<!--START_SECTION:news-->
+# Maintenance
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+
+This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+
+## Bugfixes and enhancements
+
+If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+
+Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+
+---
+<div align="center">
+    
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+</div>
