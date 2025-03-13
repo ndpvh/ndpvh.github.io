@@ -38,6 +38,8 @@ Want to reach out? You can send an email to: <a href="mailto:niels.vanhasbroeck@
 
 <a href="https://hubs-lab.com/">https://hubs-lab.com/</a>
 
+<a href="https://be-prepared-consortium.nl/teams-and-people/">https://be-prepared-consortium.nl/teams-and-people/</a>
+
 <a href="https://www.uva.nl/en/v/a/n.d.p.vanhasbroeck/n.d.p.vanhasbroeck.html">https://www.uva.nl/en/v/a/n.d.p.vanhasbroeck/n.d.p.vanhasbroeck.html</a>
 
 <a href="https://ppw.kuleuven.be/okp/team/Niels_Vanhasbroeck/">https://ppw.kuleuven.be/okp/team/Niels_Vanhasbroeck/</a>
