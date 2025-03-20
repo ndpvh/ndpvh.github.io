@@ -61,9 +61,9 @@ author_profile: true
 
 **Vanhasbroeck, N.**, Loossens, T., Anarat, N., Ariens, S., Vanpaemel, W., Moors, A., & Tuerlinckx, F. (2022). Computational models of affect dynamics: Importance of accounting for nonlinearity and reactivity. Presented at the Conference of the International Society for Research on Emotion (ISRE) 2022, Los Angeles, 15 Jul 2022-18 Jul 2022.
 
-**Vanhasbroeck, N.**, Loossens, T., Anarat, N., Ariens, S., Vanpaemel, W., Moors, A., \& Tuerlinckx, F. (2022). Stimulus-driven affective change: Nonlinearity of affect dynamics persists after accounting for input. Presented at the 75th Annual Meeting of the Belgian Association for Psychological Sciences (BAPS), Leuven, 02 Jun 2022-03 Jun 2022. 
+**Vanhasbroeck, N.**, Loossens, T., Anarat, N., Ariens, S., Vanpaemel, W., Moors, A., & Tuerlinckx, F. (2022). Stimulus-driven affective change: Nonlinearity of affect dynamics persists after accounting for input. Presented at the 75th Annual Meeting of the Belgian Association for Psychological Sciences (BAPS), Leuven, 02 Jun 2022-03 Jun 2022. 
 
-**Vanhasbroeck, N.**, Loossens, T., Anarat, N., Ariens, S., Vanpaemel, W., Moors, A., \& Tuerlinckx, F. (2022). Computational models of affect dynamics: Accounting for nonlinearity and affective reactivity. Presented at the 9th Annual Conference of the Society of Affective Sciences (SAS), Virtual, 30 Mar 2022-02 Apr 2022. 
+**Vanhasbroeck, N.**, Loossens, T., Anarat, N., Ariens, S., Vanpaemel, W., Moors, A., & Tuerlinckx, F. (2022). Computational models of affect dynamics: Accounting for nonlinearity and affective reactivity. Presented at the 9th Annual Conference of the Society of Affective Sciences (SAS), Virtual, 30 Mar 2022-02 Apr 2022. 
 
 
 
@@ -94,6 +94,6 @@ author_profile: true
 
 ### Poster presentation
 
-**Vanhasbroeck, N.**, Chalkia, A., \& Beckers, T. (2019). Directed forgetting of associative fear memories. Presented at the Annual Meeting of the Belgian Association for Psychological Sciences (BAPS), Liège, Belgium, 14 May 2019-15 May 2019. 
+**Vanhasbroeck, N.**, Chalkia, A., & Beckers, T. (2019). Directed forgetting of associative fear memories. Presented at the Annual Meeting of the Belgian Association for Psychological Sciences (BAPS), Liège, Belgium, 14 May 2019-15 May 2019. 
 
         
