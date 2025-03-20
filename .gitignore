@@ -2,5 +2,6 @@
 .sass-cache/
 depr/
 _data/comments/
+_draft/
 
 .DS_Store
