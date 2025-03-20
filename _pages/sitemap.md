@@ -7,7 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+<h2>Pages<h2>
+
+<a href="../experience">Experience</a>
+<br>
+
+<a href="../home">Home</a>
+<br>
+
+<a href="../publications">Publications</a>
+<br>
+
+<a href="../talks">Talks</a>
+
+<!-- Keep the default in here if you want to change it at some point. For now, however, I don't want the Sitemap to include everything that is still included now.
+
+ A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
@@ -34,4 +49,4 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
