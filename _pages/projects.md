@@ -5,4 +5,4 @@ permalink: /projects/
 author_profile: true
 ---
 
-Hallo, dit zijn mijn projecten
+You stumbled upon an empty page. Soon I will include the projects that I am involved in on this page.

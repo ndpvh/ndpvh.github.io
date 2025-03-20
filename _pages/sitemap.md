@@ -12,7 +12,7 @@ author_profile: true
 <a href="../experience">Experience</a>
 <br>
 
-<a href="../home">Home</a>
+<a href="../">Home</a>
 <br>
 
 <a href="../publications">Publications</a>
