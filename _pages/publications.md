@@ -14,7 +14,12 @@ Henninger, M., **Vanhasbroeck, N.**, & Tuerlinckx, F. (in press). Affect dynamic
 <a href="../files/Henninger_2025_ADRB.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://osf.io/w2kvp/"><image src="../images/repository.png" width="20rem"/></a>
 
-Yu, K., Lin, T.-Y., Zaman, J., Tuerlinckx, F., & **Vanhasbroeck, N.** (in press). Consistency of perceptual response variability in size estimation and reproduction tasks. _Behavior Research Methods_.
+
+
+<!-- 2025 -->
+## 2025
+
+Yu, K., Lin, T.-Y., Zaman, J., Tuerlinckx, F., & **Vanhasbroeck, N.** (2025). Consistency of perceptual response variability in size estimation and reproduction tasks. _Behavior Research Methods, 57_, Article 127. doi: <a href="https://www.doi.org/10.3758/s13428-025-02650-1">10.3758/s13428-025-02650-1</a>
 <a href="../files/Yu_2025_COPR.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://osf.io/f97rz/"><image src="../images/repository.png" width="20rem"/></a>
 

@@ -10,7 +10,13 @@ author_profile: true
 
 ### Invited talk
 
+**Vanhasbroeck, N.** (2025). Complex systems in psychology: Applications in affect dynamics and walking behavior. Presented at a seminar of the _Psychometrics and Statistics_ group, University of Groningen, 1 April 2025.
+
 **Vanhasbroeck, N.** (2025). Psychology through the lens of complex systems. Presented at a seminar of _Laura Bringmann's Intensive Longitudinal Data Lab_, University of Groningen, 22 January 2025.
+
+### Seminar
+
+**Vanhasbroeck, N.** (2025). Walking you through the Minds for Mobile Agents pedestrian model, Presented at the weekly seminar of the _Research Group of Quantitative Psychology and Individual Differences_, KU Leuven, 25 March 2025.
 
 
 
