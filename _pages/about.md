@@ -31,6 +31,7 @@ Want to reach out? You can send an email to: <a href="mailto:niels.vanhasbroeck@
 <a href="https://gitlab.kuleuven.be/ppw-okpiv/researchers/u0123135/probabilistic-reward-task">probabilistic-reward-task</a> | A JavaScript package allowing for flexible definition of an experimental paradigm that allows participants to win and lose money in some consecutive trials. Relies heavily on the <a href="https://lab.js.org/">lab.js</a> module.
 <a href="https://gitlab.kuleuven.be/ppw-okpiv/researchers/u0123135/InputModels">InputModels</a> | A Julia package that serves as an extension of the <a href="https://gitlab.kuleuven.be/ppw-okpiv/research/GradientDiffusion.jl">GradientDiffusion.jl</a> package. Allows users to estimate the models defined in <a href="https://gitlab.kuleuven.be/ppw-okpiv/research/GradientDiffusion.jl">GradientDiffusion.jl</a> while accounting for a set of external variables that serve as input to the models. 
 <a href="https>//www.github.com/ndpvh/predped">predped</a> | An R package around the Minds for Mobile Agents (M4MA) pedestrian model. Allows users to simulate M4MA in a user-specified environment with user-specified characteristics of the agents. Also has some functionality allowing users to estimate the M4MA on movement data.
+<a href="https://gitlab.kuleuven.be/u0133721/impulseR">impulseR</a> | An R package that allows for the creation and interpretation of system responses when one or multiple impulses are given to the system.
 
 ## Links:
 

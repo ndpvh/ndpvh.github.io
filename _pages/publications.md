@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- PREPRINT -->
+## Preprint
+
+Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (2025). Interpreting parameters of dynamic regression models. <a href="https://osf.io/preprints/psyarxiv/4tznv_v1">https://osf.io/preprints/psyarxiv/4tznv_v1</a> 
+<a href="../files/Ariens_2025_IDPRM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+<a href="https://gitlab.kuleuven.be/u0133721/impulseR"><image src="../images/repository.png" width="20rem"/></a>
+
+
+
 <!-- IN PRESS -->
 ## In press
 
@@ -13,6 +22,9 @@ author_profile: true
 Henninger, M., **Vanhasbroeck, N.**, & Tuerlinckx, F. (in press). Affect dynamics or response bias? The relationship between extreme response style and affect dynamics in a controlled experiment. _Psychological Assessment_. 
 <a href="../files/Henninger_2025_ADRB.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://osf.io/w2kvp/"><image src="../images/repository.png" width="20rem"/></a>
+
+Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G., Niemeijer, K., Revol, J., Schat, E., Schreuder, M., **Vanhasbroeck, N.**, & Ceulemans, E. (in press). New developments in experience sampling methodology. _British Journal Of Mathematical & Statistical Psychology_.
+<a href="../files/Tuerlinckx_2025_NDESM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 
 

@@ -14,6 +14,14 @@ author_profile: true
 
 **Vanhasbroeck, N.** (2025). Psychology through the lens of complex systems. Presented at a seminar of _Laura Bringmann's Intensive Longitudinal Data Lab_, University of Groningen, 22 January 2025.
 
+### Conference presentation
+
+Henninger, M., **Vanhasbroeck, N.**, & Tuerlinckx, F. (2025). Affect dynamics or response bias? The relationship between extreme response style and affect dynamics in a controlled experiment. Presented instead of the first author at the Annual Meeting of the Society for Ambulatory Assessment, Leuven, 26 May 2025 -- 28 May 2025
+
+**Vanhasbroeck, N.**, Loossens, T., & Tuerlinckx, F. (2025). Seemingly different yet the same: Discounting models as a special case of the autoregressive models. Presented at the Annual Meeting of the Society for Mathematical Psychology, Columbus, 25 July 2025 -- 28 July 2025
+
+**Vanhasbroeck, N.** & Yu, K. (2025). Can we rely on reliable parameter estimates? Presented at the International Meeting of the Psychometric Society, Minneapolis, 14 July 2025 -- 18 July 2025
+
 ### Seminar
 
 **Vanhasbroeck, N.** (2025). Walking you through the Minds for Mobile Agents pedestrian model, Presented at the weekly seminar of the _Research Group of Quantitative Psychology and Individual Differences_, KU Leuven, 25 March 2025.
