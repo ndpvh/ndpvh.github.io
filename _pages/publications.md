@@ -60,7 +60,7 @@ Yu, K., Lin, T.-Y., Zaman, J., Tuerlinckx, F., & **Vanhasbroeck, N.** (2025). Co
 
 ### Journal articles
 
-Chalkia, A., **Vanhasbroeck, N.**, Van Oudenhove, L., Kindt, M., & Beckers, T. (2023). Emotional associative memory is disrupted by directed forgetting. _Communications Psychology, 1_(24), doi: <a href="https://www.doi.org/10.1038/s44271-023-00024-x">10.1038/s44271-023-00024-x</a>
+Chalkia, A., **Vanhasbroeck, N.**, Van Oudenhove, L., Kindt, M., & Beckers, T. (2023). Emotional associative memory is disrupted by directed forgetting. _Communications Psychology, 1_: 24. doi: <a href="https://www.doi.org/10.1038/s44271-023-00024-x">10.1038/s44271-023-00024-x</a>
 <a href="../files/Chalkia_2023_EAM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 Tanjitpiyanond, P., **et al.** (2023). A 32-society investigation of the influence of perceived economic inequality on social class stereotyping. _European Journal of Social Psychology, 53_(2), 367-382. doi: <a href="https://www.doi.org/10.1002/ejsp.2908">10.1002/ejsp.2908</a>

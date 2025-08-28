@@ -14,12 +14,12 @@ redirect_from:
 
 **Postdoctoral Researcher**
   - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
-  - Feb 2025 - Now
-  - Investigating the Blume-Capel catastrophe model to capture opinion dynamics. 
+  - Mar 2025 - Now
+  - Investigating the Blume-Capel model to capture opinion dynamics. 
     Collaboration with Prof. Dr. Han van der Maas.
 <br><br>
 
-**Postdoctoral Research**
+**Postdoctoral Researcher**
   - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
   - Oct 2023 - Feb 2025
   - Validating and providing software for the simulation of the Minds For Mobile Agents agent-based pedestrian model.
