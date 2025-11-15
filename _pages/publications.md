@@ -12,6 +12,15 @@ Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (2025). Interpretin
 <a href="../files/Ariens_2025_IDPRM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://gitlab.kuleuven.be/u0133721/impulseR"><image src="../images/repository.png" width="20rem"/></a>
 
+Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (2025). Evaluating BERTopic on open-ended data: A case study with Belgian Dutch daily narratives. <a href="https://arxiv.org/pdf/2504.14707?">https://arxiv.org/pdf/2504.14707?</a>
+<a href="../files/Kandala_2025_EBO.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+
+Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquita, B., & Hoemann, K. (2025). Toward an ecology of emotion in everyday life. <a href="https://osf.io/preprints/psyarxiv/hfvnx_v1">https://osf.io/preprints/psyarxiv/hfvnx_v1</a> 
+<a href="../files/Kandala_2025_TEEEL.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+
+**Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (2025). No need to be indirect: On the role of data in the validation of theory. <a href="https://osf.io/preprints/psyarxiv/6f4q7_v1">https://osf.io/preprints/psyarxiv/6f4q7_v1</a> 
+<a href="../files/Vanhasbroeck_2025_NNTBI.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+
 
 
 <!-- IN PRESS -->
@@ -19,17 +28,19 @@ Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (2025). Interpretin
 
 ### Journal articles
 
-Henninger, M., **Vanhasbroeck, N.**, & Tuerlinckx, F. (in press). Affect dynamics or response bias? The relationship between extreme response style and affect dynamics in a controlled experiment. _Psychological Assessment_. 
-<a href="../files/Henninger_2025_ADRB.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
-<a href="https://osf.io/w2kvp/"><image src="../images/repository.png" width="20rem"/></a>
-
-Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G., Niemeijer, K., Revol, J., Schat, E., Schreuder, M., **Vanhasbroeck, N.**, & Ceulemans, E. (in press). New developments in experience sampling methodology. _British Journal Of Mathematical & Statistical Psychology_.
+Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G., Niemeijer, K., Revol, J., Schat, E., Schreuder, M., **Vanhasbroeck, N.**, & Ceulemans, E. (in press). New developments in experience sampling methodology. _British Journal Of Mathematical & Statistical Psychology_. doi: <a href="https://www.doi.org/10.1011/bmps.12398">10.1011/bmps.12398</a> 
 <a href="../files/Tuerlinckx_2025_NDESM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 
 
 <!-- 2025 -->
 ## 2025
+
+## Journal articles
+
+Henninger, M., **Vanhasbroeck, N.**, & Tuerlinckx, F. (2025). Affect dynamics or response bias? The relationship between extreme response style and affect dynamics in a controlled experiment. _Psychological Assessment, 37_(11), 639-655. doi: <a href="https://www.doi.org/10.1037/pas0001370">10.1037/pas0001370</a> 
+<a href="../files/Henninger_2025_ADRB.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+<a href="https://osf.io/w2kvp/"><image src="../images/repository.png" width="20rem"/></a>
 
 Yu, K., Lin, T.-Y., Zaman, J., Tuerlinckx, F., & **Vanhasbroeck, N.** (2025). Consistency of perceptual response variability in size estimation and reproduction tasks. _Behavior Research Methods, 57_, Article 127. doi: <a href="https://www.doi.org/10.3758/s13428-025-02650-1">10.3758/s13428-025-02650-1</a>
 <a href="../files/Yu_2025_COPR.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
