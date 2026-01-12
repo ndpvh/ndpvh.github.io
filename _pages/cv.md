@@ -13,28 +13,28 @@ redirect_from:
 ## Work experience:
 
 **Postdoctoral Researcher**
-  - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
+  - University of Amsterdam
   - Mar 2025 - Now
   - Investigating the Blume-Capel model to capture opinion dynamics. 
     Collaboration with Prof. Dr. Han van der Maas.
 <br><br>
 
 **Postdoctoral Researcher**
-  - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
+  - University of Amsterdam
   - Oct 2023 - Feb 2025
   - Validating and providing software for the simulation of the Minds For Mobile Agents agent-based pedestrian model.
     Collaboration with Prof. Dr. Andrew Heathcote, Dr. Dora Matzke, Dr. Tessa Blanken, and Prof. Dr. Denny Borsboom.
 <br><br>
 
 **PhD Student**
-  - KU Leuven, <img src="../images/kuleuven.png" alt="kul" width="65rem"/> 
+  - KU Leuven
   - Sep 2019 - Sep 2023
   - Validating the Affective Ising Model (AIM), a drift-diffusion model aimed at capturing affect dynamics.
     Supervised by Prof. Dr. Francis Tuerlinckx (main supervisor), Prof. Dr. Wolf Vanpaemel, and Prof. Dr. Agnes Moors (co-supervisors).
 <br><br>
 
 **Tutor in Statistics**
-  - Rebus, <img src="../images/rebus.png" alt="rebus" width="40rem"/>
+  - Rebus Leuven
   - Jan 2018 - Sep 2019
   - Teaching basic and advanced principles of statistics based on both the required course material and my own.
 
@@ -44,7 +44,7 @@ redirect_from:
 ## Education:
 
 **Master of Science in Psychology**
-  - KU Leuven, <img src="../images/kuleuven.png" alt="kul" width="65rem"/> 
+  - KU Leuven
   - Sep 2014 - Sep 2019
   - Specialization _Theory and Research_
 
@@ -54,21 +54,21 @@ redirect_from:
 ## Teaching:
 
 **Tutor**
-  - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
+  - University of Amsterdam
   - Feb 2025 - Now
   - Tutor of the _Basic Skills in Programming, Statistics, and Mathematics_ course, focusing on the Programming part.
     Also helped students use <a href="https://www.github.com/ndpvh/predped">predped</a> to simulate data with the Minds for Mobile Agents pedestrian model as part of a _Digital Twinning_ course.
 <br><br>
 
 **Supervision of Students**
-  - University of Amsterdam, <img src="../images/uva2.png" alt="uva" width="65rem"/>
+  - University of Amsterdam
   - Oct 2023 - Now
-  - Main supervision of 2 interns, 2 master thesis students, and 6 bachelor thesis students.
+  - Main supervision of 3 interns, 2 master thesis students, and 10 bachelor thesis students.
     Topics were mostly focused on testing the validity of the Minds for Mobile Agents model.
 <br><br>
 
 **Co-supervision of Students**
-  - KU Leuven, <img src="../images/kuleuven.png" alt="kul" width="65rem"/> 
+  - KU Leuven
   - Sep 2019 - Sep 2023
   - Co-supervision of 2 student interns and 13 students who needed to complete their master thesis.
     Topics ranged from psychometrics to machine learning and model fitting to preregistered replications of previously published studies.
@@ -76,7 +76,7 @@ redirect_from:
 <br><br>
 
 **Tutor of Practicals in Social Psychology**
-  - KU Leuven, <img src="../images/kuleuven.png" alt="kul" width="65rem"/> 
+  - KU Leuven
   - Sep 2019 - Sep 2022
   - Teaching students the basic principles of research through practice. 
     Students were taught to critically analyze the main goals, research methods, and results of a selection of papers in the field of social psychology.
@@ -84,7 +84,7 @@ redirect_from:
 <br><br>
 
 **Tutor in Statistics**
-  - Rebus, <img src="../images/rebus.png" alt="rebus" width="40rem"/>
+  - Rebus
   - Jan 2018 - Sep 2019
   - Teaching basic and advanced principles of statistics based on both the required course material and my own.
 
