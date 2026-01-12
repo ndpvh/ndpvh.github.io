@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my academic CV <a href="../files/VanhasbroeckNiels_CV.pdf">here</a>.
+
 <!-- WORK EXPERIENCE -->
 ## Work experience:
 
