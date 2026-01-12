@@ -28,7 +28,14 @@ Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquit
 
 ### Journal articles
 
-Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G., Niemeijer, K., Revol, J., Schat, E., Schreuder, M., **Vanhasbroeck, N.**, & Ceulemans, E. (in press). New developments in experience sampling methodology. _British Journal Of Mathematical & Statistical Psychology_. doi: <a href="https://www.doi.org/10.1011/bmps.12398">10.1011/bmps.12398</a> 
+
+
+<!-- 2026 -->
+## 2026
+
+### Journal articles
+
+Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G., Niemeijer, K., Revol, J., Schat, E., Schreuder, M., **Vanhasbroeck, N.**, & Ceulemans, E. (2026). New developments in experience sampling methodology. _British Journal Of Mathematical & Statistical Psychology. 79_(1), 46–65. doi: <a href="https://www.doi.org/10.1011/bmps.12398">10.1011/bmps.12398</a> 
 <a href="../files/Tuerlinckx_2025_NDESM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 
