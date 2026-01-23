@@ -12,6 +12,10 @@ Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (2025). Interpretin
 <a href="../files/Ariens_2025_IDPRM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://gitlab.kuleuven.be/u0133721/impulseR"><image src="../images/repository.png" width="20rem"/></a>
 
+Henninger, M., Menegola, S., **Vanhasbroeck, N.**, & Tuerlinckx, F. (2025). Affect dynamics or
+response bias? extreme response style in daily-life assessments <a href="https://osf.io/preprints/psyarxiv/3hjmt_v1">https://osf.io/preprints/psyarxiv/3hjmt_v1</a> 
+<a href="../files/Henninger_2025_ADRB2.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+
 Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (2025). Evaluating BERTopic on open-ended data: A case study with Belgian Dutch daily narratives. <a href="https://arxiv.org/pdf/2504.14707?">https://arxiv.org/pdf/2504.14707?</a>
 <a href="../files/Kandala_2025_EBO.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
