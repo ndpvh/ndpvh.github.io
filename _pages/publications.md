@@ -8,21 +8,21 @@ author_profile: true
 <!-- PREPRINT -->
 ## Preprint
 
-Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (2025). Interpreting parameters of dynamic regression models. <a href="https://osf.io/preprints/psyarxiv/4tznv_v1">https://osf.io/preprints/psyarxiv/4tznv_v1</a> 
+Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (preprint). Interpreting parameters of dynamic regression models. <a href="https://osf.io/preprints/psyarxiv/4tznv_v1">https://osf.io/preprints/psyarxiv/4tznv_v1</a> 
 <a href="../files/Ariens_2025_IDPRM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://gitlab.kuleuven.be/u0133721/impulseR"><image src="../images/repository.png" width="20rem"/></a>
 
-Henninger, M., Menegola, S., **Vanhasbroeck, N.**, & Tuerlinckx, F. (2025). Affect dynamics or
+Henninger, M., Menegola, S., **Vanhasbroeck, N.**, & Tuerlinckx, F. (preprint). Affect dynamics or
 response bias? extreme response style in daily-life assessments <a href="https://osf.io/preprints/psyarxiv/3hjmt_v1">https://osf.io/preprints/psyarxiv/3hjmt_v1</a> 
 <a href="../files/Henninger_2025_ADRB2.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
-Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (2025). Evaluating BERTopic on open-ended data: A case study with Belgian Dutch daily narratives. <a href="https://arxiv.org/pdf/2504.14707?">https://arxiv.org/pdf/2504.14707?</a>
+Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (preprint). Evaluating BERTopic on open-ended data: A case study with Belgian Dutch daily narratives. <a href="https://arxiv.org/pdf/2504.14707?">https://arxiv.org/pdf/2504.14707?</a>
 <a href="../files/Kandala_2025_EBO.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
-Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquita, B., & Hoemann, K. (2025). Toward an ecology of emotion in everyday life. <a href="https://osf.io/preprints/psyarxiv/hfvnx_v1">https://osf.io/preprints/psyarxiv/hfvnx_v1</a> 
+Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquita, B., & Hoemann, K. (preprint). Toward an ecology of emotion in everyday life. <a href="https://osf.io/preprints/psyarxiv/hfvnx_v1">https://osf.io/preprints/psyarxiv/hfvnx_v1</a> 
 <a href="../files/Kandala_2025_TEEEL.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
-**Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (2025). No need to be indirect: On the role of data in the validation of theory. <a href="https://osf.io/preprints/psyarxiv/6f4q7_v1">https://osf.io/preprints/psyarxiv/6f4q7_v1</a> 
+**Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (preprint). No need to be indirect: On the role of data in the validation of theory. <a href="https://osf.io/preprints/psyarxiv/6f4q7_v1">https://osf.io/preprints/psyarxiv/6f4q7_v1</a> 
 <a href="../files/Vanhasbroeck_2025_NNTBI.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 
