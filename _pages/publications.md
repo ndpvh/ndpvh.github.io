@@ -47,7 +47,7 @@ Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G.,
 <!-- 2025 -->
 ## 2025
 
-## Journal articles
+### Journal articles
 
 Henninger, M., **Vanhasbroeck, N.**, & Tuerlinckx, F. (2025). Affect dynamics or response bias? The relationship between extreme response style and affect dynamics in a controlled experiment. _Psychological Assessment, 37_(11), 639-655. doi: <a href="https://www.doi.org/10.1037/pas0001370">10.1037/pas0001370</a> 
 <a href="../files/Henninger_2025_ADRB.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
