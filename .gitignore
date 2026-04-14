@@ -4,4 +4,4 @@ depr/
 _data/comments/
 _drafts/
 
-.DS_Store
+*.DS_Store*
