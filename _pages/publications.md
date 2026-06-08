@@ -42,7 +42,7 @@ Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquit
 Tuerlinckx, F., Kuppens, P., Ariens, S., Cloos, L., Dejonckheere, E., Lafit, G., Niemeijer, K., Revol, J., Schat, E., Schreuder, M., **Vanhasbroeck, N.**, & Ceulemans, E. (2026). New developments in experience sampling methodology. _British Journal Of Mathematical & Statistical Psychology. 79_(1), 46–65. doi: <a href="https://www.doi.org/10.1011/bmps.12398">10.1011/bmps.12398</a> 
 <a href="../files/Tuerlinckx_2025_NDESM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
-Yu, K., Ariens, S., & **Vanhasbroeck, N.** (2026). Bounded understanding is still understanding. _Computational Brain & Behavior. doi: <a href="https://www.doi.org/10.1007/s42113-026-00287-7">10.1007/s42113-026-00287-7</a> 
+Yu, K., Ariens, S., & **Vanhasbroeck, N.** (2026). Bounded understanding is still understanding. _Computational Brain & Behavior_. doi: <a href="https://www.doi.org/10.1007/s42113-026-00287-7">10.1007/s42113-026-00287-7</a> 
 <a href="../files/Yu_2026_BUISU.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 

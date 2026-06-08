@@ -5,6 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
+<!-- 2026 -->
+## 2026
+
+### Invited talk
+
+**Vanhasbroeck, N.**, Lo, ., Johal, S. K., Peeters, L., Bringmann, L. F., Helmich, M. A., Rein, M., Jacobsen, P.-O., Cloos, L., & Büchner, A. (2026). Continuity revisited: Does sampling rate influence temporal dependence? Presented at a meeting of the Tilburg Experience Sampling Center, Tilburg University, 23 February 2026.
+
+### Conference presentation
+
+**Vanhasbroeck, N.**, Smal, I., Miller, T., & van der Maas, H. (2026). Pro and contra, but what about neutral? The Attitudinal Blume-Capel model as a model of opinion dynamics. Presented at the Annual Convention of the Association for Psychological Science, Barcelona, 28 May 2026 -- 30 May 2026. 
+
+
+
+
 <!-- 2025 -->
 ## 2025
 
