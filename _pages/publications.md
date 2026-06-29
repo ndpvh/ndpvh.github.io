@@ -22,15 +22,15 @@ Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (preprint). Evaluating BERTopic
 Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquita, B., & Hoemann, K. (preprint). Toward an ecology of emotion in everyday life. <a href="https://osf.io/preprints/psyarxiv/hfvnx_v1">https://osf.io/preprints/psyarxiv/hfvnx_v1</a> 
 <a href="../files/Kandala_2025_TEEEL.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
-**Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (preprint). No need to be indirect: On the role of data in the validation of theory. <a href="https://osf.io/preprints/psyarxiv/6f4q7_v1">https://osf.io/preprints/psyarxiv/6f4q7_v1</a> 
-<a href="../files/Vanhasbroeck_2025_NNTBI.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
-
 
 
 <!-- IN PRESS -->
 ## In press
 
 ### Journal articles
+
+**Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (2026). No need to be indirect: On the role of data in the validation of theory. _Theory & Psychology, Advance online publication_. doi: <a href="https://www.doi.org/10.1177/09593543261450876">10.1177/09593543261450876</a> 
+<a href="../files/Vanhasbroeck_2026_NNTBI.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 
 
