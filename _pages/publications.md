@@ -16,6 +16,8 @@ Henninger, M., Menegola, S., **Vanhasbroeck, N.**, & Tuerlinckx, F. (preprint). 
 response bias? extreme response style in daily-life assessments <a href="https://osf.io/preprints/psyarxiv/3hjmt_v1">https://osf.io/preprints/psyarxiv/3hjmt_v1</a> 
 <a href="../files/Henninger_2025_ADRB2.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
+Kandala, R., **Vanhasbroeck, N.**, Ceulemans, E., de Lhoneux, M., & Hoemann, K. (preprint). Syntactic analysis provides nuanced insights into linguistic distancing's relationship with momentary affect and overall emotional functioning. <a href="https://osf.io/preprints/psyarxiv/kv4n6_v1">https://osf.io/preprints/psyarxiv/kv4n6_v1</a>
+
 Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (preprint). Evaluating BERTopic on open-ended data: A case study with Belgian Dutch daily narratives. <a href="https://arxiv.org/pdf/2504.14707?">https://arxiv.org/pdf/2504.14707?</a>
 <a href="../files/Kandala_2025_EBO.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
