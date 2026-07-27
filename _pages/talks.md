@@ -14,6 +14,10 @@ author_profile: true
 
 ### Conference presentation
 
+Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (2026). Dynamic regression models: A systems perspective. Presented instead of the first author at the International Meeting of the Psychometric Society, Seoul, 20 July 2026 -- 24 July 2026. 
+
+**Vanhasbroeck, N.** (2026). The shape of decay: A comparison of discounting models in affect dynamics. Presented at the International Meeting of the Psychometric Society, Seoul, 20 July 2026 -- 24 July 2026. 
+
 **Vanhasbroeck, N.**, Smal, I., Miller, T., & van der Maas, H. (2026). Pro and contra, but what about neutral? The Attitudinal Blume-Capel model as a model of opinion dynamics. Presented at the Annual Convention of the Association for Psychological Science, Barcelona, 28 May 2026 -- 30 May 2026. 
 
 
