@@ -9,14 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my academic CV <a href="../files/VanhasbroeckNiels_CV.pdf">here</a>.
+<!-- You can download my academic CV <a href="../files/VanhasbroeckNiels_CV.pdf">here</a>. -->
 
 <!-- WORK EXPERIENCE -->
 ## Work experience:
 
+**Researcher**
+  - m-Path Software
+  - Oct 2026 - Now
+  - Allround internal researcher of the apps created at _m-Path Software_.
+<br><br>
+
 **Postdoctoral Researcher**
   - University of Amsterdam
-  - Mar 2025 - Now
+  - Mar 2025 - Sep 2026
   - Investigating the Blume-Capel model to capture opinion dynamics. 
     Collaboration with Prof. Dr. Han van der Maas.
 <br><br>
@@ -45,6 +51,11 @@ You can download my academic CV <a href="../files/VanhasbroeckNiels_CV.pdf">here
 <!-- EDUCATION -->
 ## Education:
 
+**University Teaching Qualification**
+  - University of Amsterdam
+  - Oct 2025 - June 2026
+<br><br>
+
 **Master of Science in Psychology**
   - KU Leuven
   - Sep 2014 - Sep 2019
@@ -57,14 +68,14 @@ You can download my academic CV <a href="../files/VanhasbroeckNiels_CV.pdf">here
 
 **Tutor**
   - University of Amsterdam
-  - Feb 2025 - Now
+  - Feb 2025 - Sep 2026
   - Tutor of the _Basic Skills in Programming, Statistics, and Mathematics_ course, focusing on the Programming part.
     Also helped students use <a href="https://www.github.com/ndpvh/predped">predped</a> to simulate data with the Minds for Mobile Agents pedestrian model as part of a _Digital Twinning_ course.
 <br><br>
 
 **Supervision of Students**
   - University of Amsterdam
-  - Oct 2023 - Now
+  - Oct 2023 - Sep 2026
   - Main supervision of 3 interns, 2 master thesis students, and 10 bachelor thesis students.
     Topics were mostly focused on testing the validity of the Minds for Mobile Agents model.
 <br><br>
@@ -128,6 +139,10 @@ Just starting out in using C++ on a basic level through the <a href="https://www
 
 <!-- PUBLICATIONS -->
 ## Selected publications
+
+> **Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (2026). No need to be indirect: On the role of data in the validation of theory. _Theory & Psychology, Advance online publication_. doi: <a href="https://www.doi.org/10.1177/09593543261450876">10.1177/09593543261450876</a> 
+
+A philosophy shared among me and my co-authors on how to approach the testing of theoretical models.
 
 > **Vanhasbroeck, N.**, Loossens, T., & Tuerlinckx, F. (2024). Two peas in a pod: Discounting models as a special case of the VARMAX. _Journal of Mathematical Psychology_, Article 102856. doi: <a href="https://www.doi.org/10.1016/j.jmp.2024.102856">10.1016/j.jmp.2024.102856</a>
 
