@@ -12,14 +12,7 @@ Ariens, S., **Vanhasbroeck, N.**, Lafit, G., & Ceulemans, E. (preprint). Interpr
 <a href="../files/Ariens_2025_IDPRM.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 <a href="https://gitlab.kuleuven.be/u0133721/impulseR"><image src="../images/repository.png" width="20rem"/></a>
 
-Henninger, M., Menegola, S., **Vanhasbroeck, N.**, & Tuerlinckx, F. (preprint). Affect dynamics or
-response bias? extreme response style in daily-life assessments <a href="https://osf.io/preprints/psyarxiv/3hjmt_v1">https://osf.io/preprints/psyarxiv/3hjmt_v1</a> 
-<a href="../files/Henninger_2025_ADRB2.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
-
 Kandala, R., **Vanhasbroeck, N.**, Ceulemans, E., de Lhoneux, M., & Hoemann, K. (preprint). Syntactic analysis provides nuanced insights into linguistic distancing's relationship with momentary affect and overall emotional functioning. <a href="https://osf.io/preprints/psyarxiv/kv4n6_v1">https://osf.io/preprints/psyarxiv/kv4n6_v1</a>
-
-Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (preprint). Evaluating BERTopic on open-ended data: A case study with Belgian Dutch daily narratives. <a href="https://arxiv.org/pdf/2504.14707?">https://arxiv.org/pdf/2504.14707?</a>
-<a href="../files/Kandala_2025_EBO.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquita, B., & Hoemann, K. (preprint). Toward an ecology of emotion in everyday life. <a href="https://osf.io/preprints/psyarxiv/hfvnx_v1">https://osf.io/preprints/psyarxiv/hfvnx_v1</a> 
 <a href="../files/Kandala_2025_TEEEL.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
@@ -31,8 +24,17 @@ Kandala, R., **Vanhasbroeck, N.**, Tamm, S., Van hamme, H., Kuppens, P., Mesquit
 
 ### Journal articles
 
+Henninger, M., Menegola, S., **Vanhasbroeck, N.,** & Tuerlinckx, F. (2026). Affect Dynamics or Response Bias? Extreme Response Style in Daily-Life Assessments. _Multivariate Behavioral Research, Advance online publication_. doi: <a href="https://www.doi.org/10.1080/00273171.2026.2721527">10.1080/00273171.2026.2721527</a> 
+<a href="../files/Henninger_2026_ADRB.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+<a href="https://osf.io/paxut/"><image src="../images/repository.png" width="20rem"/></a>
+
 **Vanhasbroeck, N.**\*, Yu, K.\*, & Ariens, S.\* (2026). No need to be indirect: On the role of data in the validation of theory. _Theory & Psychology, Advance online publication_. doi: <a href="https://www.doi.org/10.1177/09593543261450876">10.1177/09593543261450876</a> 
-<a href="../files/Vanhasbroeck_2026_NNTBI.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
+<a href="../files/Vanhasbroeck_2026_NNTBI.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>hallo
+
+### Conference proceedings
+
+Kandala, R., **Vanhasbroeck, N.**, & Hoemann, K. (2026). FLAME: A new dataset on FLemish Accounts of Momentary Experiences. In _Findings of the Association for Computational Linguistics: EMNLP 2026, Budapest, Hungary_, 10204-10219. Association for Computational Linguistics. doi: <a href="https://doi.org/10.18653/2026.findings-emnlp.487">10.18653/2026.findings-emnlp.487</a>
+<a href="../files/Kandala_2026_FLAME.pdf" download><image src="../images/pdf.svg" width="20rem"/></a>
 
 
 
